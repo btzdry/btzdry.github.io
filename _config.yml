@@ -1,0 +1,6 @@
+defaults:
+  - scope:
+      path: "sitemap.xml"
+    values:
+      headers:
+        Content-Type: "application/xml"
